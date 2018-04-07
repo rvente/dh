@@ -7,7 +7,7 @@ layouts_gallery:
 date: 2017-03-05
 ---
 
-## How A Nerd From Brooklyn Started Getting A Life
+## 5 March 2017
 
 ![](https://avatars3.githubusercontent.com/u/21066644?s=460&v=4)
 
