@@ -4,3 +4,6 @@
    archive sections
 *  rename class to category
 *  pull changes from upstream
+   - `git fetch upstream`
+   - `git checkout master`
+   - `git merge upstream/master`
