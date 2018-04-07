@@ -70,6 +70,7 @@ algolia:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
+alexa_site_verification  :
 yandex_site_verification :
 naver_site_verification  :
 
@@ -102,7 +103,7 @@ author:
     "https://avatars1.githubusercontent.com/u/21066644?v=4&u=561ae694414493c56d2d79fdc8cce149ea007a10&s=400" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Philopher, Glossophile, Polyglot and Programmer"
   location         : "New York, New York"
-  email            : "ralph.vent09#myhunter.cuny.edu"
+  email            : "ralph.vent09@myhunter.cuny.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -130,6 +131,7 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
+
 # Reading Files
 include:
   - .htaccess
@@ -142,6 +144,8 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .swp
+  - .swap
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
@@ -187,6 +191,66 @@ kramdown:
   enable_coderay: false
 
 
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+      sidebar:
+        nav: "sidebar"
+        
+  # _page conditional yaml header declaration
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  # _posts/PHILO104 conditional yaml header declaration
+  - scope:
+      path: "_posts/PHILO104"
+      type: posts
+    values:
+      categories: "PHILO104"
+      layout: single
+      author_profile: false # I don't want my author profile to appear with posts in this directory.
+      comments: false       # In order to keep this from being distracting to readers
+      share: true
+      related: true
+      sidebar: false
+        
+# _posts/journal conditional yaml header declaration
+  - scope:
+      path: "_posts/journal"
+      type: posts
+    values:
+      categories: Journal
+      layout: single
+      author_profile: True
+      comments: false
+      share: true
+      related: true
+      sidebar:
+        nav: "sidebar"
+
+  # _page conditional yaml header declaration
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -229,7 +293,10 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /class/
+author_archive:
+  type: liquid
+  path: /author/
 tag_archive:
   type: liquid
   path: /tags/
@@ -253,17 +320,3 @@ compress_html:
   ignore:
     envs: development
 
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: # true
-      share: true
-      related: true
