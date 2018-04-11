@@ -9,3 +9,5 @@
    - `git checkout master`
    - `git merge upstream/master`
 
+this branch is made to housr my mathjax changes before they're published to the
+full site.
