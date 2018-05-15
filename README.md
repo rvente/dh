@@ -10,6 +10,11 @@
    - `git merge upstream/master`
 
 ```Python
+data = pd.read_csv(inF)
+xCol = input(’Enter column name for x values: ’)
+yCol = input(’Enter column name for y values: ’)
+data.plot(x = xCol, y = yCol)
+plt.show()
 pop[“Bronx”].max()
 pop[“Queens”].mean()
 ```
