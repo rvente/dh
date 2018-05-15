@@ -9,3 +9,7 @@
    - `git checkout master`
    - `git merge upstream/master`
 
+```
+pop[“Bronx”].max()
+pop[“Queens”].mean()
+```
