@@ -15,7 +15,7 @@ similar post to mine with a focus on citations, and LaTeX. Mine will offer a bit
 more guidance for beginners. I will outline Markdown, Pandoc, and breifly delve
 into LaTeX.
 
-The companion repository is locate [here](https://github.com/rvente/Templates).
+The companion repository is located [here](https://github.com/rvente/Templates).
 There will find just about everything you'll need. If you alredy know how to
 use these programs to generate files, then all you need to do is clone the
 repo and hack away.
