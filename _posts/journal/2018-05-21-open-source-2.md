@@ -1,13 +1,13 @@
 ---
 title: "De-Googling: Part 2 - Open Source Software"
-author: "Ralph Vente" 
-date: 2018-05-06
+author: "Ralph Vente"
+date: 2018-05-22
 ---
 
 # Open Source Part 2: Papers, Essays
 
 So, you're tired of using closed source software. You're ready to take the open
-source leap. Where do you start? Well an easy starting place is your essays. 
+source leap. Where do you start? Well an easy starting place is your essays.
 
 You can look
 [here](https://gist.github.com/maxogden/97190db73ac19fc6c1d9beee1a6e4fc8) for a
@@ -15,17 +15,20 @@ similar post to mine with a focus on citations, and LaTeX. Mine will offer a bit
 more guidance for beginners. I will outline Markdown, Pandoc, and breifly delve
 into LaTeX.
 
-The companion repository is locate [here](https://github.com/rvente/Templates)
+The companion repository is locate [here](https://github.com/rvente/Templates).
+There will find just about everything you'll need. If you alredy know how to
+use these programs to generate files, then all you need to do is clone the
+repo and hack away.
 
 By the way, I pronounce LaTeX `/ˈlɑːtɛk/` (lah-tehk) and I've heard programmers say
-`/ˈleɪtɛx/` (lay-tehk). People generally don't call it the same as the name for the fabric.
+`/ˈleɪtɛk/` (lay-tehk). People generally don't call it the same as the name for the fabric.
 
 ## The (not so) Simple Bare Necessities
 
 So, let's get started explaining what's what. I'll be talking about Pandoc,
 LaTeX, and Markdown. Markdown is a markup language written to be very easy. A
 markup language is basically a language that encodes information about what a
-particular piece of content *means.* 
+particular piece of content *means.*
 
 I'm writing this post in Markdown as we speak. To get the word "means" in
 italic, I type `*means*`, which is shown like *means*. If I wanted to bold it, I
@@ -44,11 +47,11 @@ your actual document. It uses this ancient typesetting engine called
 as much as you need to understand, and skip to the next section if you just
 wanna get on with it. If you say you can learn more about the systems behind it.
 
-So last up, [LaTeX](https://www.latex-project.org/get/)is the name of the
+So last up, [LaTeX](https://www.latex-project.org/get/) is the name of the
 programming language that TeX uses to understand what you mean. So, to recount,
 Markdown is used by Pandoc to generate LaTeX. That code is then used by TeX to
 generate the document. That much doesn't matter so much if you're only using it.
-It's all taken care of automatically. But nonetheless, it begs the question:
+It's all taken care of automatically by Pandoc. But nonetheless, it begs the question:
 Why's it so complicated? Well, it's story time.
 
 LaTeX was written in the 1980s or something like that. My theory is that this
@@ -61,13 +64,16 @@ since most people who use LaTeX are mathematicians and physicists and
 scientists, that they liked using a hard language to make themselves feel
 smarter. That's why I use it, after all.
 
-## Getting Down to Business 
+## Getting Down to Business
 
 So, down to the nitty-gritty. What do I actually need to start?
 
 First, install LaTeX. Then Pandoc. If you're using Arch Linux, you can run a
 simple, `$ yaourt -S pandoc biber texlive-all` in your shell and you've got 99%
 of the packages you will ever need.
+
+Installing it on proprietary operating systems is left as an excercise for the reader.
+If you want to add it here, make a pull request on [Github](http://github.com/rvente/ink).
 
 Let's assume your Markdown file is called something like `essay.md`. All you
 have to do now is run `$ pandoc essay.md -o essay.pdf` and bam, your file is
@@ -108,7 +114,7 @@ has what I think is the more common Creole pronunciation.
 
 ```
 
-![sample output](2018-05-21-open-source-2-media/linguistics-assignments.png)
+![sample output from Pandoc](/assets/images/2018-05-21-open-source-2-media/linguistics-assignments.png)
 
 Here I have a table, and some paragraphs and an H1. That's short for Heading 1.
 Instead of making your section headers bold and increasing their size, you just
@@ -157,3 +163,5 @@ merged, actually. They allow you all of the benefit of LaTeX in a pretty online
 interface. There, you can also find an absurd amount of guidance through all of
 the templates. It's a great place to start if you're going from Markdown to
 something more low-level.
+
+So, here are the tools. Get those coding fingers ready and hack away.

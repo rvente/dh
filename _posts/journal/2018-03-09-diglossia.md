@@ -2,24 +2,10 @@
 title: "Snapshots: Pentasyllabics"
 author: "Ralph Vente" 
 date: 2018-03-11
+toc: true
 ---
 
 # Why I "Talk Fancy" All the Time
-
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
-**Table of Contents**
-
-- [Why I "Talk Fancy" All the Time](#why-i-talk-fancy-all-the-time)
-    - [Diglossia in Linguistics](#diglossia-in-linguistics)
-        - [Diglossia vs Bilingualism and Bidialectalism.](#diglossia-vs-bilingualism-and-bidialectalism)
-        - [My Diglossia Story](#my-diglossia-story)
-            - [Language Variety Distribution of a Typical New Yorker](#language-variety-distribution-of-a-typical-new-yorker)
-            - [My Language Variety Distribution](#my-language-variety-distribution)
-            - [Possible Reasons Why](#possible-reasons-why)
-            - [Moving Forward](#moving-forward)
-
-<!-- markdown-toc end -->
-
 
 ## Diglossia in Linguistics
 
