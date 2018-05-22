@@ -15,13 +15,16 @@ similar post to mine with a focus on citations, and LaTeX. Mine will offer a bit
 more guidance for beginners. I will outline Markdown, Pandoc, and breifly delve
 into LaTeX.
 
+By the way, I pronounce LaTeX `/ˈlɑːtɛk/` (lah-tehk) and I've heard programmers say
+`/ˈleɪtɛk/` (lay-tehk). People generally don't call it the same as the name for the fabric.
+
+## My Templates repository
+
 The companion repository is located [here](https://github.com/rvente/Templates).
 There will find just about everything you'll need. If you alredy know how to
 use these programs to generate files, then all you need to do is clone the
-repo and hack away.
-
-By the way, I pronounce LaTeX `/ˈlɑːtɛk/` (lah-tehk) and I've heard programmers say
-`/ˈleɪtɛk/` (lay-tehk). People generally don't call it the same as the name for the fabric.
+repo and hack away. If you are new to this, take a look around, and try to get
+a feel for how everything might work before you do anything else.
 
 ## The (not so) Simple Bare Necessities
 
