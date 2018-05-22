@@ -114,7 +114,9 @@ has what I think is the more common Creole pronunciation.
 
 ```
 
-![sample output from Pandoc](/assets/images/2018-05-21-open-source-2-media/linguistics-assignments.png)
+Here is that same document rendered out in pdf form.
+
+![sample output from Pandoc](https://raw.githubusercontent.com/rvente/ink/master/assets/images/2018-05-21-open-source-2-media/linguistics-assignments.png)
 
 Here I have a table, and some paragraphs and an H1. That's short for Heading 1.
 Instead of making your section headers bold and increasing their size, you just
