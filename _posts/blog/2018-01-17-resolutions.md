@@ -1,10 +1,8 @@
 ---
 title: "New Years Resolutions"
 date: 2018-01-17
+toc: false
 ---
-
-# Is it going to be different this time?
-
 
 Here is my single New Years Resolution:
 

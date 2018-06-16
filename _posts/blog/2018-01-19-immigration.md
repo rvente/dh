@@ -1,9 +1,8 @@
 ---
 title: "How We Talk About Immigration"
 date: 2018-01-19
+toc: false
 ---
-
-# Are We Saying the Wrong Things About Immigration?
 
 Ever since Trump spouted his vulgar, racist, repulsive comments about immigrants, I've noticed a disturbing trend in the responses to it. 
 
@@ -33,11 +32,11 @@ So what do we say?  "You only deserve to live if you are going to come here and 
 
 I thought we said
 
-> "Give me your tired, your poor, <br />
-> Your huddled masses yearning to breathe free, <br />
-> The wretched refuse of your teeming shore. <br />
-> Send these, the homeless, tempest-tost to me, <br />
-> I lift my lamp beside the golden door!"
+"Give me your tired, your poor,  
+Your huddled masses yearning to breathe free,  
+The wretched refuse of your teeming shore.  
+Send these, the homeless, tempest-tost to me,  
+I lift my lamp beside the golden door!"  
 
 Our focus should be on the humanity of the people that we're saving. We shouldn't portray immigrants as dutiful supporters of the American Dream, we should see them as our extended family. We shouldn't help immigrants because we're rich and they're helpless, but because it's our obligation to do so. It's our necessity. It's our duty.
 

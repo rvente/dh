@@ -1,9 +1,8 @@
 ---
 title: "Acceptance"
 date: 2017-03-15
+toc: false
 ---
-
-## Please take me? No, For Real, I Need You
 
 This entry starts off as any good post should: with Latin!
 

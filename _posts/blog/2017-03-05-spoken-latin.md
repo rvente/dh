@@ -1,9 +1,8 @@
 ---
-title: "Latin Dec"
+title: "Latin Declamation"
 date: 2017-03-05
+toc: false
 ---
-
-## Why are so many nerds still speaking this (awesome) dead language?
 
 I decided, to what is likely my ultimate disadvantage to audition for public declamation. Speaking in front of a huge crowd has never been something I would see myself doing. The prospect is terrifying. I don't know what brought me to write my name on the near-full sheet of paper posted on the bulletin board. Whatever, what's done is done. I figure if it's driving me nuts, I can always just completely biff the tryouts, but with this week of break in between now and then, I have no reason not to try.
 

@@ -1,9 +1,8 @@
 ---
 title: "Rejection"
 date: 2017-03-05
+toc: false
 ---
-
-## Am I Not Good Enough? No, For Real, Tell Me.
 
 I'm not used to rejection. I'm always qualified for the risks I take, and I take the risks I'm qualified to. So rejection has always been kind of devastating to me. 
 
