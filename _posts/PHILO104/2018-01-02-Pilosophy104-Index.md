@@ -1,5 +1,6 @@
 ---
 title: "How To Use My Guide"
+toc: false
 ---
 
 ## Philosophy Notes PHILO 104 Introduction to Ethics and Moral Judgement
