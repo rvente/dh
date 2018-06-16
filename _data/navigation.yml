@@ -130,9 +130,9 @@ sidebar-sample:
         url: /
 
 sidebar:
-  - title: "Classes"
+  - title: "Sections"
     children:
       - title: "Ethics: Philosophy 104"
-        url: /class/#philo104 #must be lower-cased
+        url: /category/#philo104 #must be lower-cased
       - title: "Journal"
-        url: /class/#journal # todo: bring this to say /journal/<something> I don't want this to be listed under /class/ in the url
+        url: /category/#blog 

@@ -232,14 +232,15 @@ defaults:
       related: true
       sidebar: false
         
-# _posts/journal conditional yaml header declaration
+# _posts/blog conditional yaml header declaration
   - scope:
-      path: "_posts/journal"
+      path: "_posts/blog"
       type: posts
     values:
-      categories: Journal
+      categories: Blog
       layout: single
-      author_profile: True
+      toc: true
+      author_profile: true
       comments: false
       share: true
       related: true
@@ -296,7 +297,7 @@ whitelist:
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /class/
+  path: /category/
 author_archive:
   type: liquid
   path: /author/
