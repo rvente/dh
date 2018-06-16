@@ -23,7 +23,7 @@ main:
 # - title: "Author"
 #    url: /author/
   - title: "Categories"
-    url: /categories/
+    url: /category/
   - title: "Archive"
     url: /year-archive/
   - title: "About"
@@ -134,5 +134,5 @@ sidebar:
     children:
       - title: "Ethics: Philosophy 104"
         url: /category/#philo104 #must be lower-cased
-      - title: "Journal"
+      - title: "Blog"
         url: /category/#blog 
