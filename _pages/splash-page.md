@@ -17,14 +17,14 @@ feature_row:
     alt: "placeholder image 1"
     title: "PHILO 104"
     excerpt: "Introduction to Ethics and Moral Judgement"
-    url: "/class/#philo104"
+    url: "/category/#philo104"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Journal"
     excerpt: "I try to illuminate the world's secrets with philosophy as my torch"
-    url: "/class/#journal"
+    url: "/category/#journal"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
