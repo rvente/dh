@@ -1,6 +1,5 @@
 ---
 title: "Snapshots: Pentasyllabics"
-author: "Ralph Vente" 
 date: 2018-03-11
 toc: true
 ---
