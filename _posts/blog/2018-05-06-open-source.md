@@ -1,6 +1,5 @@
 ---
 title: "De-Googling: Part 1 - Open Source Software"
-author: "Ralph Vente" 
 date: 2018-05-06
 ---
 
@@ -11,7 +10,8 @@ date: 2018-05-06
 Let's say you already know what open source means. If you came here for a
 comprehensive historical perspective on open source, I'm sorry to disappoint.
 I'm severely unqualified to talk about that. But, there are plenty of resources
-where you can learn about the Open Source movement's history. [Here](https://tobsta.github.io/OpenSource/#/more-info/) is a great starter
+where you can learn about the Open Source movement's history.
+[Here](https://tobsta.github.io/OpenSource/#/more-info/) is a great starter
 guide on how to purify your software life.
 
 ## My Adventure

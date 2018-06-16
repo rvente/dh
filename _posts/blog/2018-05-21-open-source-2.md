@@ -1,7 +1,7 @@
 ---
 title: "De-Googling: Part 2 - Open Source Software"
-author: "Ralph Vente"
 date: 2018-05-22
+excerpt: "So, you're tired of using closed source software. You're ready to take the open source leap. Where do you start?"
 ---
 
 # Open Source Part 2: Papers, Essays
