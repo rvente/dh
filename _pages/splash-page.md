@@ -24,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Journal"
     excerpt: "I try to illuminate the world's secrets with philosophy as my torch"
-    url: "/category/#journal"
+    url: "/category/#blog"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

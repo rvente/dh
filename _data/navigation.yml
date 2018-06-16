@@ -22,8 +22,8 @@ foo:
 main:
 # - title: "Author"
 #    url: /author/
-  - title: "Class"
-    url: /class/
+  - title: "Categories"
+    url: /categories/
   - title: "Archive"
     url: /year-archive/
   - title: "About"
