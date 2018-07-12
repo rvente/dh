@@ -109,8 +109,8 @@ Notice how these speakers have a Low form of English along with its associated
 vocabulary. Well, I've never been able to fully acquire any low forms of English
 because all of my informal language happened with Creole speakers. Not only did
 I not develop Inner City English, but by Grade 5, I failed to fully develop
-*any* Low dialects of English. Creole was always my Low dialect. I didn't get if
-from my friends (they were just like me). I didn't get if from YouTube (my
+*any* Low dialects of English. Creole was always my Low dialect. I didn't get it
+from my friends (they were just like me). I didn't get it from YouTube (my
 YouTube was mostly fun science channels I liked ) I never needed Low English at
 home (I just used Creole). At school, the High dialect was always passable (but
 importantly, my socialization told me I was speaking the language *correctly.*)
@@ -133,7 +133,7 @@ whose meanings I don't know. Those may be passable impulses, but they're not
 the rest of us," here's your perfectly laid out reason why. Of course, I'm not
 justifying anything, really. I'm just describing it. No one needs to (or should
 ever have to) justify how they speak to anyone else. I just had this epiphany
-and I just *had* to share it.
+and I just couldn't help but share it.
 
 #### Moving Forward
 
@@ -141,8 +141,9 @@ So what do I make make of this? To no one's surprise, I have really grown to
 like speaking the way I do. I'm a glossophile in one of the craziest languages
 in the world, *of course* I'm going to keep using all of those pentasyllabics. I
 genuinely enjoy it. But that's the extent of it. I've been done correcting
-grammar since when I quit being an SAT tutor, and I'm not about to start now. So
-I guess I'm just this one rare case in a phenomenon way bigger than me.
+spoken grammar since when I quit being an SAT tutor, and I'm not about to start now. So
+I guess I'm just this one rare case in a phenomenon way bigger than me, and there's
+nothing wrong with that.
 
 Now's the only point in my life, really, where I've had a permanent speech
 community of people speaking Low English. But looking around, they're all
