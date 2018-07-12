@@ -114,6 +114,8 @@ from my friends (they were just like me). I didn't get it from YouTube (my
 YouTube was mostly fun science channels I liked ) I never needed Low English at
 home (I just used Creole). At school, the High dialect was always passable (but
 importantly, my socialization told me I was speaking the language *correctly.*)
+And of course, I can't forget how learning Latin greatly expanded the scope of
+my English.
 
 To this point, I've sort of been speaking in absolutes. The truth is that
 through the late end of middle school, in High School and now in University, I
