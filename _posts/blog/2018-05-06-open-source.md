@@ -1,5 +1,5 @@
 ---
-title: "De-Googling: Part 1 - Open Source Software"
+title: "The Open Source Workflow: Part 1"
 date: 2018-05-06
 ---
 
