@@ -1,5 +1,5 @@
 ---
-title: "De-Googling: Part 2 - Open Source Software"
+title: "The Open Source Workflow: Part 2"
 date: 2018-05-22
 excerpt: "So, you're tired of using closed source software. You're ready to take the open source leap. Where do you start?"
 ---
