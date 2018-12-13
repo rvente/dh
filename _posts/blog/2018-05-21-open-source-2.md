@@ -51,9 +51,12 @@ as much as you need to understand, and skip to the next section if you just
 wanna get on with it. If you say you can learn more about the systems behind it.
 
 So last up, [LaTeX](https://www.latex-project.org/get/) is the name of the
-programming language that TeX uses to understand what you mean. So, to recount,
+ ~programming~<sup id="a1">[1](#f1)</sup> markup language that TeX uses to understand what you mean. So, to recount,
 Markdown is used by Pandoc to generate LaTeX. That code is then used by TeX to
-generate the document. That much doesn't matter so much if you're only using it.
+generate the document. `pandoc: markdown -> LaTeX` then `pdflatex: LaTeX -> PDF`.
+Complicated, but not needlessly so.
+
+And all that much doesn't matter so much if you're only using it.
 It's all taken care of automatically by Pandoc. But nonetheless, it begs the question:
 Why's it so complicated? Well, it's story time.
 
@@ -127,10 +130,10 @@ tell the system that you want this to be of the Header 1 type and it uses
 built-in definitions to determine the output.
 
 Yeah, you think to yourself, but that's not MLA. Easy fix. Just use the `mla13`
-package and everything becomes MLA. You might have to add `\singlespacing` before
+package and everything becomes MLA. ~You might have to add `\singlespacing` before
 the tables to get them looking right, but that's two small changes and your
-whole doc has changed. No need to fiddle around with font settings or margins or
-anything. It just works.
+whole doc has changed.~ *use the right packages, and there should be no extra work needed* 
+No need to fiddle around with font settings or margins or anything. It just works.
 
 ```yaml
 ---
@@ -170,3 +173,8 @@ the templates. It's a great place to start if you're going from Markdown to
 something more low-level.
 
 So, here are the tools. Get those coding fingers ready and hack away.
+
+-----
+
+<b id="f1">1</b> Yeah, it *is* a programming language where Programming Language is defined as any language that is [Turing Complete,](https://www.overleaf.com/learn/latex/Articles/LaTeX_is_More_Powerful_than_you_Think_-_Computing_the_Fibonacci_Numbers_and_Turing_Completeness) but it's not used for programming. It's used for markup. [↩](#a1)
+
